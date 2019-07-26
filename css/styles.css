@@ -1,0 +1,40 @@
+.ol-button i {
+    color: inherit;
+}
+
+.popup {
+    right: 46%;
+    top: 0.5em;
+    position: fixed;
+}
+
+.selection {
+    right: 54%;
+    top: 0.5em;
+    position: fixed;
+}
+
+.drawing {
+    right: 50%;
+    top: 0.5em;
+    position: fixed;
+}
+
+.save {
+    left: 50%;
+    top: 0.5em;
+}
+
+.text {
+    left: 50%;
+    top: 2.5em;
+}
+
+.default {
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 2px;
+    min-height:50px;
+    min-width: 200px;
+}
